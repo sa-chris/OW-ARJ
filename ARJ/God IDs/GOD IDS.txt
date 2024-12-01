@@ -1,0 +1,109 @@
+*** Beginner Gods ***
+640 = Synge
+641 = Rancid
+642 = Terrance, Rebel of Rallis
+643 = Zertan, the Collector
+644 = Quiver, the Renegade
+645 = Garland
+646 = Tylos, the Lord Master
+845 = Threk
+648 = Jazzmin
+649 = Sigil
+731 = Ganja
+732 = Lord Sibannac
+733 = Smoot
+734 = Bloodchill the Grizzly
+735 = ag nabak
+736 = Wanhi
+737 = Vitkros
+739 = Mistress
+740 = Traxodon
+811 = Murderface
+812 = Emerald
+813 = Detox
+814 = Samatha Dark-Soul
+815 = Anguish
+
+897 = Crane
+898 = Gnorb
+xxx = Nessam
+900 = Pinosis
+901 = Shadow
+902 = Tsort
+903 = Xordam
+
+
+*** 5 Mans ***
+612 = Ebliss
+613 = Brutalitar
+614 = Dreg Nor
+615 = Ashnar
+616 = Nar Zhul
+632 = Ariella
+633 = Narada (NO POINTS)
+634 = Lord Suka
+635 = Lord Varan (NO POINTS)
+741 = Kro Shuk
+
+*** CoES Gods ***
+1279 = Emperor Neudeus, Controller of the Universe
+1280 = Slashbrood
+1281 = howldroid
+1282 = Hackerphage, Protector of the Gateway
+1283 = Numerocure, The Black Messenger of Evil
+1284 = Lady Chaos, Queen of the Abyss
+1285 = Rotborn, Eater of the Dead
+1286 = Meltbane
+1287 = Baron Mu  (NO POINTS)
+1288 = Freezebreed  (NO POINTS)
+
+
+*** Astral Gods *** 
+#easy
+3496 = Sarcrina
+3497 = Tarkin
+3498 = Jorun the Blazing Swordsman
+3499 = Volgan
+3500 = Zikkir the Dark Archer
+#hard
+3501 = Amalgamated Apparition
+3502 = Nayark the Mummified Sorcerer
+3505 = Archdevil Yirkon
+3506 = Bolkor, the Holy Master
+3507 = Xynak
+3508 = Crolvak
+3509 = esquin, kinetic master
+3510 = raiyar, shadow master
+
+
+***Others/Unknown***
+1039 = Windstrike
+1672 = Sylvanna TorLai
+1673 = Lacuste
+1674 = Anvilfist
+1675 = Gorganus of the Wood
+1676 = Ormsul the Putrid
+2430 = Q-Sec
+2798 = Varsanor
+3156 = karvaz
+3503 = Akkel
+3511 = nafir
+
+3723 = Skarthul
+3724 = Straya
+3725 = Dlanod
+3726 = viserion, necrodragon
+4386 = Dexor
+4389 = Thanox
+
+
+1866 = Old World Drake
+1868 = Animated Captain
+2521 = Jade Dragonite
+
+
+*** Set Raids ***
+1803 = Aberforth
+1804 = Black Axe
+1805 = Bloodroot
+1807 = Wrevernd
